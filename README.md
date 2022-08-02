@@ -3,7 +3,7 @@
 <h3 align="center">A fresher developer from Vietnam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TQToan" alt="TQToan" /></p>
 
-- ✍ I'm a student of: [FPT University HCM](https://hcmuni.fpt.edu.vn/) (FTPU).
+- ✍ I'm a student of: [FPT University HCM](https://hcmuni.fpt.edu.vn/) (FPTU).
 
 - 🌱 I’m currently learning **Back-End Development**
 
