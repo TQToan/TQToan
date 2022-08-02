@@ -72,7 +72,7 @@
 </table>
 
 # Certificates:
-<h3> Web Design For Everyone </h3>
+<h3> [Coursera] - Web Design For Everyone </h3>
 <p align="center">
   <a href="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE.jpeg">
     <img alt="Web Design For Everyone" title="Web Design For Everyone" src="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE.jpeg" width="300px" />
