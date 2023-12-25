@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thai Quoc Toan</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">A fresher developer from Vietnam </h3>
+<h3 align="center">A backend developer from Vietnam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TQToan" alt="TQToan" /></p>
 
-- ✍ I'm a student of: [FPT University HCM](https://hcmuni.fpt.edu.vn/) (FPTU).
-
-- 🌱 I’m currently learning **Back-End Development**
-
+- ✍ My University: [FPT University HCM](https://hcmuni.fpt.edu.vn/) (FPTU).
 
 ## 📫 How to reach me:
 
@@ -25,6 +22,7 @@
 </p>
 
 ## Skills:
+
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="48" height="48"/>
   <img src="https://img.icons8.com/color/2x/tomcat.png" width="48" height="48" />
@@ -72,6 +70,7 @@
 </table>
 
 # Certificates:
+
 <h3> [Coursera] - Web Design For Everyone </h3>
 <p align="center">
   <a href="https://github.com/TQToan/Coursera/blob/main/WebDesign/CERTIFICATE.jpeg">
@@ -131,6 +130,7 @@
 </p>
 
 # Honors And Awards:
+
 <h3>SPRING 2021</h3>
 <p align="center">
   <a href="https://github.com/TQToan/Honors_Awards/blob/main/Honorable_SPRING2021.jpg">
